@@ -49,14 +49,14 @@ Polyvalente, rigoureuse, passionnée par les architectures propres, les données
 
 ---
 
-### 📌 Articles à venir
+### ✍️ Derniers articles publiés
 
-- 📖 Structurer une app React Native avec Clean Architecture
-- 🔐 Authentification sécurisée avec refresh token
-- 🧪 Tests unitaires d’une feature Auth
-- 🗺️ Intégration d’une carte + logique métier étape par étape
+📌 [Structurer une app React Native avec Clean Architecture](https://www.amaliamaturana.com/fr/structurer-une-app-react-native-avec-clean-architecture/)  
+📌 [Authentification sécurisée avec refresh token](https://www.amaliamaturana.com/fr/article-auth-refresh-token/)  
+📌 [Tests unitaires d’une feature Auth en React Native](https://www.amaliamaturana.com/fr/tests-unitaires-dune-feature-auth-en-react-native/)  
+📌 [Intégrer une carte + logique métier étape par étape](https://www.amaliamaturana.com/fr/integrer-une-carte-logique-metier-etape-par-etape/)
 
-> *En cours d’écriture. À retrouver bientôt sur mon site !*
+> 🔁 Mis à jour en avril 2025 – série d’articles concrets pour structurer une app React Native de A à Z
 
 ---
 
