@@ -11,7 +11,7 @@ Polyvalente, rigoureuse, passionnée par les architectures propres, les données
 
 - 🔁 Ancienne cheffe de produits culturels, reconvertie avec passion dans le développement web et mobile.
 - 👩‍💻 +4 ans d’expérience en React / React Native / TypeScript, avec des bases solides en PHP (Laravel), Node.js et Go.
-- 🚚 Dernier projet : app de livraison de médicaments en React Native (privée) avec carte, étapes de mission, documents, et authentification sécurisée.
+- 🚚 Dernier projet : application mobile d’exploration de cartes historiques superposées à des cartes modernes.
 - 🌍 J’adore travailler sur des **projets concrets**, avec logique métier forte, cartographie, API, données réelles.
 - 🧠 Je suis aussi très active sur [GitLab](https://gitlab.com/Pazokita), où je contribue à des projets privés de manière régulière depuis plusieurs années.
 
