@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/[TON-USERNAME]/[TON-USERNAME]/main/assets/hero-banner.svg" alt="ScrollToTop — Founder & Software Engineer" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Pazokita/Pazokita/main/assets/hero-banner.svg" alt="ScrollToTop — Founder & Software Engineer" width="100%"/>
 </div>
 
 <br/>
