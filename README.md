@@ -1,82 +1,141 @@
-<h1 align="center">Salut, moi c’est Amalia 👋</h1>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/[TON-USERNAME]/[TON-USERNAME]/main/assets/hero-banner.svg" alt="ScrollToTop — Founder & Software Engineer" width="100%"/>
+</div>
 
-<p align="center">
-Développeuse Full-Stack JS ⚡️ spécialisée en <strong>React / React Native</strong><br/>
-Polyvalente, rigoureuse, passionnée par les architectures propres, les données réelles et les projets qui ont du sens.
-</p>
+<br/>
 
----
+<div align="center">
+  <a href="https://scrolltotop.fr"><img src="https://img.shields.io/badge/scrolltotop.fr-0a0a0a?style=flat-square&labelColor=0a0a0a&color=EFB93D" alt="ScrollToTop"/></a>
+  &nbsp;
+  <a href="https://amaliamaturana.com/enseignement/"><img src="https://img.shields.io/badge/49_articles_techniques-amaliamaturana.com-0a0a0a?style=flat-square&labelColor=0a0a0a&color=6a6a6a" alt="Articles techniques"/></a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/LinkedIn_Entreprise-bientôt-2a2a2a?style=flat-square" alt="LinkedIn coming soon"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/YouTube-bientôt-2a2a2a?style=flat-square" alt="YouTube coming soon"/>
+</div>
 
-### 👩‍💻 Qui suis-je ?
-
-- 🔁 Ancienne cheffe de produits culturels, reconvertie avec passion dans le développement web et mobile.
-- 👩‍💻 5 ans d’expérience en React / React Native / TypeScript, avec des bases solides en PHP (Laravel), Node.js et Go.
-- 🚚 Dernier projet : application mobile d’exploration de cartes historiques superposées à des cartes modernes.
-- 🌍 J’adore travailler sur des **projets concrets**, avec logique métier forte, cartographie, API, données réelles.
-- 🧠 Je suis aussi très active sur [GitLab](https://gitlab.com/Pazokita), où je contribue à des projets privés de manière régulière depuis plusieurs années.
-
----
-
-### 🧰 Stack principale
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white)
-![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![Go](https://img.shields.io/badge/-Golang-00ADD8?style=flat&logo=go&logoColor=white)
+<br/>
 
 ---
 
-### 🚀 Projets récents
+## About
 
-#### 📱 **DriverApp** *(privé)*
-> App React Native pour la livraison de médicaments. Étapes de mission, carte interactive, JWT, gestion de documents.  
-> ➕ Clean Architecture, mocking API Go, navigation avancée.
+Je suis la fondatrice de **[ScrollToTop](https://scrolltotop.fr)** — un studio spécialisé dans la conception et le développement de logiciels métier, d'applications web et mobiles, et de produits SaaS.
 
-#### 🤖 [**NestGPT**](https://github.com/Pazokita/NestGPT)
-> API NestJS pour alimenter ReactGPT. Intégration OpenAI : chat, génération d’images, audio.
+Je suis le plus souvent la personne qui comprend le métier, modélise le système, conçoit la base de données, définit l'architecture, construit le backend, construit le frontend — et livre. Ce n'est pas une posture : c'est ma façon de travailler depuis le premier jour.
 
-#### 💬 [**ReactGPT**](https://github.com/Pazokita/ReactGPT)
-> Interface React + TypeScript pour dialoguer avec des modèles d’IA.
+Mon terrain technique principal : **TypeScript · React · React Native · Next.js**  
+Mon terrain de travail réel : systèmes complexes, modélisation métier, architectures multi-rôles, automatisation, IA appliquée.
 
-#### 💍 **AmaliaBijoux** *(privé)*
-> E-commerce avec NestJS + Next.js. Gestion des bijoux, panier, commande, utilisateurs.
+Je documente et transmets ce travail sur **[amaliamaturana.com](https://amaliamaturana.com/)** — 49 articles techniques couvrant React Native, l'architecture logicielle, la sécurité, le backend et les bonnes pratiques.
 
 ---
 
-### ✍️ Derniers articles publiés
+## What I'm Building
 
-📌 [Structurer une app React Native avec Clean Architecture](https://www.amaliamaturana.com/fr/structurer-une-app-react-native-avec-clean-architecture/)  
-📌 [Authentification sécurisée avec refresh token](https://www.amaliamaturana.com/fr/article-auth-refresh-token/)  
-📌 [Tests unitaires d’une feature Auth en React Native](https://www.amaliamaturana.com/fr/tests-unitaires-dune-feature-auth-en-react-native/)  
-📌 [Intégrer une carte + logique métier étape par étape](https://www.amaliamaturana.com/fr/integrer-une-carte-logique-metier-etape-par-etape/)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/[TON-USERNAME]/[TON-USERNAME]/main/assets/focus-banner.svg" alt="Current focus" width="100%"/>
+</div>
 
-> 🔁 Mis à jour en avril 2025 – série d’articles concrets pour structurer une app React Native de A à Z
+<br/>
 
----
+**[ScrollToTop](https://scrolltotop.fr)** — Le studio. Conception et développement de logiciels métier, applications web et mobiles, automatisation, intégration IA.
 
-### 🎓 Formation
+**Alex** *(en construction)* — Produit SaaS en développement actif. Documentation publique en cours.
 
-- 💻 Dév Web & Mobile – RNCP niveau 6 – La Capsule
-- 🧠 Dév Web – RNCP niveau 5 – Nextformation
-- 🏛️ Master 2 – Patrimoine Touristique – Paris 1 Panthéon-Sorbonne
+**Contenu technique** *(à venir)* — Articles, vidéos YouTube, documentation publique sur la construction de produits avec la méthode ScrollToTop.
 
 ---
 
-### 💌 Me contacter
+## How I Think
 
-- 🌐 [amaliamaturana.com](https://www.amaliamaturana.com/fr/)
-- 💼 [LinkedIn](https://www.linkedin.com/in/amaliamaturana/)
-- 🐙 [GitHub](https://github.com/Pazokita)
-- 🦊 [GitLab](https://gitlab.com/Pazokita)
+<div align="center">
+  <img src="https://raw.githubusercontent.com/[TON-USERNAME]/[TON-USERNAME]/main/assets/method-banner.svg" alt="ScrollToTop Method" width="100%"/>
+</div>
+
+<br/>
+
+Ma méthode de construction produit tient en une règle : **on ne génère rien avant d'avoir compris, modélisé et décidé.**
+
+Chaque produit que je construis suit la même séquence :
+
+```
+① Comprendre le métier       — quel problème réel, pour qui, comment la valeur circule
+② Identifier les utilisateurs — acteurs, intentions, cas d'usage
+③ Définir les permissions     — RBAC dès le départ, jamais ajouté après
+④ Modéliser les données       — entités, relations, contraintes — la colonne vertébrale
+⑤ Définir les features        — user stories vérifiables avec critères d'acceptation
+⑥ Décider le MVP              — renoncer est une décision, pas un oubli
+⑦ Concevoir l'architecture    — structure, flux, conventions, choix techniques
+⑧ Utiliser l'IA               — exécution d'un plan déjà décidé, jamais le contraire
+```
+
+> **L'IA est un accélérateur d'exécution. Elle ne remplace jamais la réflexion produit.**
+
+Une étape n'est terminée que quand son livrable est écrit. "J'y ai pensé" ne compte pas.  
+Ce qui n'est pas documenté ne peut pas être donné en contexte à l'IA — et redevient du savoir tacite perdu.
 
 ---
 
-> *"J’ai troqué les pierres du patrimoine pour les briques du web. Le code est un langage, et je l’écris avec méthode et curiosité."*
+## Expertise
+
+Ce que je construis implique systématiquement plusieurs couches :
+
+| Couche | Ce que je fais |
+|--------|----------------|
+| **Produit** | Modélisation métier, définition des rôles, périmètre MVP, user stories |
+| **Architecture** | Conception des systèmes, flux de données, choix techniques, conventions |
+| **Données** | Schémas relationnels, politiques RLS, contraintes, migrations |
+| **Backend** | APIs, validation, gestion des permissions, logique métier |
+| **Frontend** | React, React Native, Next.js — interfaces qui respectent l'architecture |
+| **IA appliquée** | Intégration LLM, automatisation de workflows, agents métier |
 
 ---
+
+## Current Focus
+
+- Développement actif d'**Alex** — un produit SaaS documenté publiquement
+- Missions clients **ScrollToTop** — logiciels métier, applications mobiles, automatisation
+- Préparation du **contenu technique** — YouTube, articles, documentation open
+
+---
+
+## Building in Public
+
+Je documente ce que je construis — pas les astuces, les arbitrages.
+
+```
+Projets en cours de documentation :
+├── ScrollToTop/        — méthode, décisions d'architecture, cas clients (anonymisés)
+├── Alex/               — construction feature par feature, modèle de données, choix techniques
+├── IA/                 — expérimentations, ce qui marche, ce qui ne marche pas
+└── amaliamaturana.com/ — 49 articles publiés : React Native, archi, sécurité, backend
+```
+
+Publier sans expliquer ses décisions, ce n'est pas construire en public. C'est afficher du code.
+
+---
+
+## Resources & Content
+
+| Format | Statut | Lien |
+|--------|--------|------|
+| Site ScrollToTop | Actif | [scrolltotop.fr](https://scrolltotop.fr) |
+| Articles techniques — 49 ressources | Actif | [amaliamaturana.com/enseignement](https://amaliamaturana.com/enseignement/) |
+| Site personnel & portfolio | Actif | [amaliamaturana.com](https://amaliamaturana.com/) |
+| YouTube — React Native & product building | *(bientôt)* | — |
+| LinkedIn ScrollToTop | *(bientôt)* | — |
+
+---
+
+## Contact
+
+Si vous construisez quelque chose et cherchez un partenaire technique qui comprend votre métier avant d'écrire une ligne de code —
+
+**→ [scrolltotop.fr](https://scrolltotop.fr)**
+
+---
+
+<div align="center">
+  <sub>Fondatrice · Ingénieure logiciel · Créatrice de produits · Building in public</sub>
+</div>
