@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Pazokita/Pazokita/main/assets/hero-banner.svg" alt="ScrollToTop — Founder & Software Engineer" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Pazokita/Pazokita/main/hero-banner.svg" alt="ScrollToTop — Founder & Software Engineer" width="100%"/>
 </div>
 
 <br/>
@@ -34,7 +34,7 @@ Je documente et transmets ce travail sur **[amaliamaturana.com](https://amaliama
 ## What I'm Building
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/[TON-USERNAME]/[TON-USERNAME]/main/assets/focus-banner.svg" alt="Current focus" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Pazokita/Pazokita/main/focus-banner.svg" alt="Current focus" width="100%"/>
 </div>
 
 <br/>
@@ -50,7 +50,7 @@ Je documente et transmets ce travail sur **[amaliamaturana.com](https://amaliama
 ## How I Think
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/[TON-USERNAME]/[TON-USERNAME]/main/assets/method-banner.svg" alt="ScrollToTop Method" width="100%"/>
+  <img src="https://raw.githubusercontent.com/Pazokita/Pazokita/main/method-banner.svg" alt="ScrollToTop Method" width="100%"/>
 </div>
 
 <br/>
